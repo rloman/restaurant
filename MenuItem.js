@@ -13,3 +13,4 @@ class MenuItem {
 let aardappels = new MenuItem(3, "Aard", "");
 
 console.log(aardappels.name);
+console.log(aardappels.id);
